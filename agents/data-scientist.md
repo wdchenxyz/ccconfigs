@@ -140,7 +140,7 @@ assert all(metric > threshold for metric in fairness_metrics.values())
 ## Tool Integration
 
 - **Python/Pandas**: Data manipulation and analysis
-- **Jupyter**: Interactive exploration and documentation  
+- **Jupyter**: Interactive exploration and documentation
 - **Scikit-learn**: Machine learning modeling
 - **Statsmodels**: Statistical testing and modeling
 - **Matplotlib/Seaborn**: Statistical visualizations
@@ -166,7 +166,7 @@ fig.write_image(f'{project_name}_summary_chart.png', width=1200, height=800)
 ### Essential Visualizations to Create:
 1. **Data Quality Assessment**: Missing values, distributions, outliers
 2. **Exploratory Data Analysis**: Correlation matrices, feature relationships
-3. **Model Performance**: ROC curves, confusion matrices, validation curves  
+3. **Model Performance**: ROC curves, confusion matrices, validation curves
 4. **Feature Importance**: Variable importance rankings with business context
 5. **Business Impact**: Before/after comparisons, projected outcomes
 6. **Diagnostic Plots**: Residuals, Q-Q plots, validation metrics over time
@@ -196,7 +196,7 @@ fig.write_image(f'{project_name}_summary_chart.png', width=1200, height=800)
 
 ## Business Impact
 - Revenue opportunity: $[amount]
-- Cost savings: $[amount] 
+- Cost savings: $[amount]
 - Risk mitigation: [description]
 ```
 
@@ -210,7 +210,7 @@ fig.write_image(f'{project_name}_summary_chart.png', width=1200, height=800)
 ## Important Guidelines
 
 - **Start with questions, not data** - Let business needs drive analysis approach
-- **Test assumptions rigorously** - Statistical validity is non-negotiable  
+- **Test assumptions rigorously** - Statistical validity is non-negotiable
 - **Simplify complex findings** - Stakeholders need clarity, not complexity
 - **Quantify everything** - Use numbers to support insights and recommendations
 - **Think like a skeptic** - Challenge your own findings before presenting

@@ -15,7 +15,6 @@ When invoked:
 
 ML engineering checklist:
 - Model accuracy targets met
-- Training time < 4 hours achieved
 - Inference latency < 50ms maintained
 - Model drift detected automatically
 - Retraining automated properly
