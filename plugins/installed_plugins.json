@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-code-plugins/frontend-design/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-03T10:12:41.024Z",
+        "lastUpdated": "2025-12-03T10:12:41.024Z",
+        "gitCommitSha": "84d7b085394b687e1531784350a858918fa6f8ed",
+        "isLocal": true
+      }
+    ],
+    "feature-dev@claude-code-plugins": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-code-plugins/feature-dev/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-11T14:43:15.859Z",
+        "lastUpdated": "2025-12-11T14:43:15.859Z",
+        "gitCommitSha": "a9f513a6062c9fb1b40b3f4639a886338f25b4db",
+        "isLocal": true
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-plugins-official/code-review/6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2025-12-28T03:00:07.420Z",
+        "lastUpdated": "2025-12-28T03:02:44.397Z",
+        "gitCommitSha": "8692344bab8ae80bbcccfa527e09c61629153bd6",
+        "isLocal": true
+      }
+    ],
+    "playwright@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-plugins-official/playwright/6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2025-12-28T03:01:26.598Z",
+        "lastUpdated": "2025-12-28T03:02:44.402Z",
+        "gitCommitSha": "8692344bab8ae80bbcccfa527e09c61629153bd6",
+        "isLocal": true
+      }
+    ]
+  }
+}

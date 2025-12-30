@@ -1,0 +1,26 @@
+{
+  "claude-code-plugins": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-code"
+    },
+    "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-code-plugins",
+    "lastUpdated": "2025-12-28T03:02:57.030Z"
+  },
+  "edmunds-claude-code": {
+    "source": {
+      "source": "github",
+      "repo": "edmund-io/edmunds-claude-code"
+    },
+    "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/edmunds-claude-code",
+    "lastUpdated": "2025-12-15T14:55:41.186Z"
+  },
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2025-12-28T02:41:56.030Z"
+  }
+}
