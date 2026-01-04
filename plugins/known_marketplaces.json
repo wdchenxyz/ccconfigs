@@ -5,7 +5,7 @@
       "repo": "anthropics/claude-code"
     },
     "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-code-plugins",
-    "lastUpdated": "2025-12-30T13:22:51.821Z"
+    "lastUpdated": "2026-01-01T11:50:42.122Z"
   },
   "edmunds-claude-code": {
     "source": {
@@ -21,6 +21,22 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2025-12-30T13:22:00.167Z"
+    "lastUpdated": "2026-01-04T05:20:39.594Z"
+  },
+  "dev-browser-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "sawyerhood/dev-browser"
+    },
+    "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/dev-browser-marketplace",
+    "lastUpdated": "2026-01-01T11:50:50.225Z"
+  },
+  "claude-hud": {
+    "source": {
+      "source": "github",
+      "repo": "jarrodwatts/claude-hud"
+    },
+    "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-hud",
+    "lastUpdated": "2026-01-04T05:20:44.569Z"
   }
 }

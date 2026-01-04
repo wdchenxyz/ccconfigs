@@ -44,6 +44,28 @@
         "gitCommitSha": "8692344bab8ae80bbcccfa527e09c61629153bd6",
         "isLocal": true
       }
+    ],
+    "dev-browser@dev-browser-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/dev-browser-marketplace/dev-browser/unknown",
+        "version": "unknown",
+        "installedAt": "2026-01-01T11:51:08.481Z",
+        "lastUpdated": "2026-01-01T11:51:08.481Z",
+        "gitCommitSha": "c8f6b42c7e97ace778835d436e3193963aaa89df",
+        "isLocal": true
+      }
+    ],
+    "claude-hud@claude-hud": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-hud/claude-hud/0.0.1",
+        "version": "0.0.1",
+        "installedAt": "2026-01-04T05:20:52.359Z",
+        "lastUpdated": "2026-01-04T05:20:52.359Z",
+        "gitCommitSha": "c8f6b42c7e97ace778835d436e3193963aaa89df",
+        "isLocal": true
+      }
     ]
   }
 }
