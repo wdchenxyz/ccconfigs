@@ -5,7 +5,7 @@
       "repo": "anthropics/claude-code"
     },
     "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-code-plugins",
-    "lastUpdated": "2026-01-01T11:50:42.122Z"
+    "lastUpdated": "2026-01-17T15:53:22.078Z"
   },
   "edmunds-claude-code": {
     "source": {
@@ -21,7 +21,7 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/wdchen/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-01-04T05:20:39.594Z"
+    "lastUpdated": "2026-01-17T13:30:42.035Z"
   },
   "dev-browser-marketplace": {
     "source": {
