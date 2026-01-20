@@ -1,4 +1,5 @@
 # Claude Code auto-generated files and caches
+.claude/
 cache/
 plugins/cache/
 paste-cache/
