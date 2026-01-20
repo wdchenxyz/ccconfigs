@@ -2,6 +2,7 @@
 .claude/
 cache/
 plugins/cache/
+plugins/install-counts-cache.json
 paste-cache/
 history.jsonl
 file-history/
