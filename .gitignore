@@ -1,0 +1,19 @@
+# Claude Code auto-generated files and caches
+cache/
+plugins/cache/
+paste-cache/
+history.jsonl
+file-history/
+stats-cache.json
+statsig/
+debug/
+shell-snapshots/
+plans/
+todos/
+projects/
+
+# Credentials (sensitive)
+anthropic_key.sh
+
+# Backup directories
+*-bk/
