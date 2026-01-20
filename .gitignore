@@ -1,6 +1,8 @@
 # Claude Code auto-generated files and caches
 .claude/
+.DS_Store
 cache/
+session-env/
 plugins/cache/
 plugins/install-counts-cache.json
 paste-cache/
