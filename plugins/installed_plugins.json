@@ -1,26 +1,6 @@
 {
   "version": 2,
   "plugins": {
-    "frontend-design@claude-code-plugins": [
-      {
-        "scope": "user",
-        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-code-plugins/frontend-design/1.0.0",
-        "version": "1.0.0",
-        "installedAt": "2025-12-03T10:12:41.024Z",
-        "lastUpdated": "2025-12-03T10:12:41.024Z",
-        "gitCommitSha": "84d7b085394b687e1531784350a858918fa6f8ed"
-      }
-    ],
-    "feature-dev@claude-code-plugins": [
-      {
-        "scope": "user",
-        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-code-plugins/feature-dev/1.0.0",
-        "version": "1.0.0",
-        "installedAt": "2025-12-11T14:43:15.859Z",
-        "lastUpdated": "2025-12-11T14:43:15.859Z",
-        "gitCommitSha": "a9f513a6062c9fb1b40b3f4639a886338f25b4db"
-      }
-    ],
     "code-review@claude-plugins-official": [
       {
         "scope": "user",
@@ -71,14 +51,34 @@
         "gitCommitSha": "8ac7b710f0a5d646abfae8232a4729da962835c2"
       }
     ],
-    "ralph-loop@claude-plugins-official": [
+    "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-plugins-official/ralph-loop/96276205880a",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-plugins-official/frontend-design/96276205880a",
         "version": "96276205880a",
-        "installedAt": "2026-01-11T06:26:55.189Z",
-        "lastUpdated": "2026-01-16T15:28:49.407Z",
-        "gitCommitSha": "8ac7b710f0a5d646abfae8232a4729da962835c2"
+        "installedAt": "2026-01-20T14:15:42.565Z",
+        "lastUpdated": "2026-01-20T14:15:42.565Z",
+        "gitCommitSha": "96276205880a60fd66bbae981f5ab568e70c4cbf"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-plugins-official/feature-dev/96276205880a",
+        "version": "96276205880a",
+        "installedAt": "2026-01-20T14:15:59.377Z",
+        "lastUpdated": "2026-01-20T14:15:59.377Z",
+        "gitCommitSha": "96276205880a60fd66bbae981f5ab568e70c4cbf"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/wdchen/.claude/plugins/cache/claude-plugins-official/context7/96276205880a",
+        "version": "96276205880a",
+        "installedAt": "2026-01-20T14:16:03.783Z",
+        "lastUpdated": "2026-01-20T14:16:03.783Z",
+        "gitCommitSha": "96276205880a60fd66bbae981f5ab568e70c4cbf"
       }
     ]
   }
